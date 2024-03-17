@@ -1,0 +1,8 @@
+~/.config/nvim/lua/ipr111/..
+  base
+  keys
+  plugins
+  │  colorscheme.lua
+  │  nvim-numbertoggle.lua
+  └  nvim-tree.lua
+   lazy.lua
